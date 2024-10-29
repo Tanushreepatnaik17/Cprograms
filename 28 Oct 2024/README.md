@@ -28,6 +28,7 @@ int main() {
 
     return 0;
 }
+```
 
 
 
@@ -58,6 +59,7 @@ int main() {
 
     return 0;
 }
+```
 
 
 ## (c) Update Counters and Sums Based on the Value of x
@@ -99,3 +101,4 @@ int main() {
 
     return 0;
 }
+```
